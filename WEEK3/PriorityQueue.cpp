@@ -71,7 +71,7 @@ struct MaxHeap {
         return maxVal;
 	}
 
-
+ 
     void printHeap() {
         if (isEmpty()) {
             cout << "Heap rong!\n";
